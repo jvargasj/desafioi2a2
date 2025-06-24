@@ -1,0 +1,11 @@
+[project]
+name = "projeto-i2a2-csv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.25",
+    "langchain-openai>=0.3.23",
+    "streamlit>=1.45.1",
+]
